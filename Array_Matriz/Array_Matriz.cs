@@ -27,7 +27,7 @@ public class Producto
     }
 }
 
-class Program
+class Array_Matriz
 {
     static void Main(string[] args)
     {
